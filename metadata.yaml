@@ -1,0 +1,40 @@
+_repo: Memoirs-of-Napoleon-Bonaparte-Volume-16_3566
+contributor:
+  creator:
+    editor:
+      agent_name: Phipps, Ramsay Weston
+      alias: Phipps, R. W. (Ramsay Weston)
+      birthdate: 1838
+      deathdate: 1923
+      gutenberg_agent_id: '41682'
+      url: http://www.gutenberg.org/2009/agents/41682
+creator:
+  author:
+    agent_name: Bourrienne, Louis Antoine Fauvelet de
+    aliases:
+    - Fauvelet de Bourrienne, Louis Antoine
+    - De Bourrienne, Louis Antoine Fauvelet
+    birthdate: 1769
+    deathdate: 1834
+    gutenberg_agent_id: '1227'
+    url: http://www.gutenberg.org/2009/agents/1227
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Antoine_Fauvelet_de_Bourrienne
+description: 'Translated from: Mémoires sur Napoléon, le Directoire le Consulat, l''Empire
+  et la Restauration.'
+gutenberg_issued: '2002-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with private secretaries'
+- !lcsh 'Private secretaries -- France -- Biography'
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Bourrienne, Louis Antoine Fauvelet de, 1769-1834'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+title: Memoirs of Napoleon Bonaparte — Volume 16
+url: http://www.gutenberg.org/ebooks/3566
