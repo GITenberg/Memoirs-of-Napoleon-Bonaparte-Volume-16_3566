@@ -1,5 +1,5 @@
 _repo: Memoirs-of-Napoleon-Bonaparte-Volume-16_3566
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -9,6 +9,9 @@ contributor:
       deathdate: 1923
       gutenberg_agent_id: '41682'
       url: http://www.gutenberg.org/2009/agents/41682
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bourrienne, Louis Antoine Fauvelet de
@@ -22,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Louis_Antoine_Fauvelet_de_Bourrienne
 description: 'Translated from: Mémoires sur Napoléon, le Directoire le Consulat, l''Empire
   et la Restauration.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3566#Memoirs-of-Napoleon-Bonaparte-Volume-16
 gutenberg_issued: '2002-12-01'
 gutenberg_type: Text
 identifiers:
