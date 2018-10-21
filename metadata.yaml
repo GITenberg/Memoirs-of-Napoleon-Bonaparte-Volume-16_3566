@@ -1,5 +1,5 @@
 _repo: Memoirs-of-Napoleon-Bonaparte-Volume-16_3566
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -42,5 +42,6 @@ subjects:
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
 - !lcsh 'Bourrienne, Louis Antoine Fauvelet de, 1769-1834'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- GITenberg
 title: Memoirs of Napoleon Bonaparte — Volume 16
 url: http://www.gutenberg.org/ebooks/3566
